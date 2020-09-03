@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+C:\Users\User\source\repos\2 semestr laba 3\2 semestr laba 3\Source1.cpp(46,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  2 semestr laba 3.vcxproj -> C:\Users\User\source\repos\2 semestr laba 3\Debug\2 semestr laba 3.exe
